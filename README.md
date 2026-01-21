@@ -2,7 +2,18 @@
 
 A beautiful artificial life simulation where **transformer neural networks evolve from scratch** in a primordial soup. No training, no gradients, no loss functions—just natural selection.
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_HERE
+https://github.com/user-attachments/assets/PASTE_VIDEO_ID_HERE
+
+<details>
+<summary>📹 How to add the demo video</summary>
+
+1. Push this repo to GitHub
+2. Edit this README on GitHub's web interface
+3. Drag `assets/demo.mp4` into the text editor
+4. GitHub will upload it and generate a URL like `https://github.com/user-attachments/assets/abc123...`
+5. Replace the URL above with the generated one
+
+</details>
 
 ## The Idea
 
@@ -233,6 +244,8 @@ tiny-minds/
 │   ├── genes.py        # Gene definitions
 │   ├── visualize.py    # Pygame rendering
 │   └── config.py       # All parameters
+├── assets/
+│   └── demo.mp4        # Demo video
 ├── pyproject.toml      # Project config (uv)
 ├── requirements.txt    # Dependencies (pip fallback)
 └── README.md
